@@ -3,9 +3,9 @@
  *         Arduino reads and prints all data and commands of the PS2 gamepad.
  *         Analog Sticks are filtered using Radial Scaling method and
  *         printed when there is a change.
- *         Uses PS2X library for Arduino.
+ *         Uses PS2X library for Arduino (https://github.com/madsci1016/Arduino-PS2X).
  *
- *  Board: Arduino Pro Min (3.3V, 8MHz)
+ *  Board: Arduino Pro Mini ATmega 328 (3.3V, 8MHz)
  *
  *  Connections:  Type    Pro Mini    PS2 controller      Components
  *                Output  D2          Data (brown)        R1
